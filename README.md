@@ -15,5 +15,9 @@ Sample website with plenty of files for demos
 
 deployment
 
+## how to contribute
+
+please fork this repository and then issue pull requests for review.
+
 ## copyright
 2024.git.training.
