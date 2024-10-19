@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Steve anderson	sja.tesco@gmail.com
 
 # THANKS
 
