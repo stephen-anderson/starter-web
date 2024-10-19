@@ -14,3 +14,6 @@ Sample website with plenty of files for demos
 ## deployment
 
 deployment
+
+## copyright
+2024.git.training.
