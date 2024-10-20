@@ -20,4 +20,4 @@ deployment
 please fork this repository and then issue pull requests for review.
 
 ## copyright
-2024.git.training.
+2024.git.training. all rights reserved
